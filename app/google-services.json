@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346967472878",
+    "firebase_url": "https://chatapp-19642.firebaseio.com",
+    "project_id": "chatapp-19642",
+    "storage_bucket": "chatapp-19642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346967472878:android:e64508b26515d473",
+        "android_client_info": {
+          "package_name": "com.damdino.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346967472878-koap40mdbu4htbk5uchfu1jk8q24thfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.damdino.chatapp",
+            "certificate_hash": "d45df0e92956e357c73297ea7744844fd3be6b35"
+          }
+        },
+        {
+          "client_id": "346967472878-j7userub0srr0ashpcb3kdnb1f02ha69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc56Sn8PjgzSDa994j4XwQQ6KjrVdsXQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346967472878-j7userub0srr0ashpcb3kdnb1f02ha69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
